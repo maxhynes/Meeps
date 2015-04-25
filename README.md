@@ -2,7 +2,7 @@
 # Info
 Meeps is a mod created by Meepmeep22 and Dtendr(Muffion) built for Fun and Utility.
 
-Soon, we will add various prank tools and Utilities including Better pumps, Power management, Liquid and item storage Aesthetic Quantity building tools.
+Soon, we will add various prank tools and Utilities including Better pumps, Power management, Liquid and item storage and Building tools.
 
 Much more to come! If you want anything added, please write it descriptively in the comments section.
 
