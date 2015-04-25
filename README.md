@@ -11,7 +11,7 @@ Meeps is a mod created by Meepmeep22 and Dtendr(Muffion).
 - New type of pump, Because this game needs better pumps for large sea bases.
 
 # Milestones
-- Build Github Repository,√
+- Build Github Repository, DONE
 
 - Build gradle in repository
 
