@@ -19,7 +19,7 @@ Much more to come! If you want anything added, please write it descriptively in 
 # Milestones
 - Build Github Repository, DONE
 
-- Build gradle in repository
+- Build gradle in repository, DONE
 
 - Initial item code
 
